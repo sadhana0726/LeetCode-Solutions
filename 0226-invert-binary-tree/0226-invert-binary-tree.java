@@ -14,17 +14,24 @@
  * }
  */
 class Solution {
+    Map<TreeNode, TreeNode> map = new HashMap<>();
     public TreeNode invertTree(TreeNode root) {
         if(root == null){
             return null;
         }
-        TreeNode temp = root.left;
-        root.left = root.right;
-        root.right = temp;
 
-        invertTree(root.left);
-        invertTree(root.right);
+        if(map.containsKey(root)){
+            map.get(root);
+        }
 
+        TreeNode left = invertTree(root.left);
+        TreeNode right = invertTree(root.right);
+
+        root.left = right;
+        root.right = left;
+
+        map.put(root, root);
         return root;
+        
     }
 }
