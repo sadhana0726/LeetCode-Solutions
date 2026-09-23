@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
