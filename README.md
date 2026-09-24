@@ -54,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
