@@ -50,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Database
+|  |
+| ------- |
+| [0626-exchange-seats](https://github.com/sadhana0726/LeetCode-Solutions/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
